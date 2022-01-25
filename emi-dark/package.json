@@ -1,0 +1,21 @@
+{
+    "name": "emi-dark",
+    "displayName": "emi-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "emi-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/emi-dark-color-theme.json"
+            }
+        ]
+    }
+}
