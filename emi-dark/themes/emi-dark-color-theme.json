@@ -1,7 +1,7 @@
 /*
 	#eb8038; #FADBC7;
 	#ff00ff; #3D003D;
-	#d6e65e; #F2F7CA;
+	#d6e65e; #7CCADF;
 	#e4979d; #CD3C48;
 	#5dbed7; #144552; #7CCADF; #4AB8D3
 	#ad92d6; #382258; #855DC0
@@ -16,40 +16,40 @@
    "type": "dark",
    "colors": {
       "editor.background": "#0C1D17",
-      "editor.foreground": "#F2F7CA",
+      "editor.foreground": "#7CCADF",
       "activityBarBadge.background": "#144552",
-      "activityBarBadge.foreground": "#F2F7CA",
+      "activityBarBadge.foreground": "#7CCADF",
       "sideBar.background": "#0C1D17",
-      "sideBarTitle.foreground": "#F2F7CA",
-      "sideBar.foreground": "#F2F7CA",
+      "sideBarTitle.foreground": "#7CCADF",
+      "sideBar.foreground": "#7CCADF",
       "sideBarSectionHeader.border": "#103741",
       "sideBar.border": "#103741",
       "activityBar.background": "#0C1D17",
-      "activityBar.foreground": "#F2F7CA",
+      "activityBar.foreground": "#7CCADF",
       "activityBar.border": "#103741",
       "sideBarSectionHeader.background": "#122B22",
       "list.activeSelectionBackground": "#183A2D",
       "list.inactiveSelectionBackground": "#183A2D",
-      "list.activeSelectionIconForeground": "#F2F7CA",
-      "list.activeSelectionForeground": "#F2F7CA",
+      "list.activeSelectionIconForeground": "#7CCADF",
+      "list.activeSelectionForeground": "#7CCADF",
       "titleBar.inactiveBackground": "#0C1D17",
       "titleBar.activeBackground": "#122B22",
-      "titleBar.activeForeground": "#F2F7CA",
+      "titleBar.activeForeground": "#7CCADF",
       "titleBar.inactiveForeground": "#52590D",
       "titleBar.border": "#103741",
       "editorGroupHeader.tabsBackground": "#0C1D17",
-      "breadcrumb.foreground": "#F2F7CA",
+      "breadcrumb.foreground": "#7CCADF",
       "editorSuggestWidget.background": "#183A2D",
       "editorSuggestWidget.border": "#103741",
       "editorSuggestWidget.selectedBackground": "#122B22",
       "statusBar.background": "#144552",
-      "statusBar.foreground": "#F2F7CA",
+      "statusBar.foreground": "#7CCADF",
       "dropdown.background": "#183A2D",
-      "dropdown.foreground": "#F2F7CA",
+      "dropdown.foreground": "#7CCADF",
       "tab.activeBackground": "#183A2D",
       "tab.inactiveBackground": "#0C1D17",
       "tab.activeBorder": "#103741",
-      "tab.activeForeground": "#F2F7CA",
+      "tab.activeForeground": "#7CCADF",
       "tab.border": "#103741",
       "editor.selectionBackground": "#382258",
       "focusBorder": "#103741"
